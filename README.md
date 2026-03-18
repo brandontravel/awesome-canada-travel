@@ -1,4 +1,4 @@
-# Awesome Canada Travel [![Awesome Travel](https://srv-cdn.himpfen.io/badges/awesome-travel/awesometravel-flat.svg)](https://github.com/brandontravel/awesome)
+# Awesome Canada Travel [![Awesome Travel](https://srv-cdn.himpfen.io/badges/awesome-travel/awesometravel-flat.svg)](https://github.com/brandonhimpfen/awesome-travel)
 
 > A curated list of **resources, apps, communities, guides, and tools** for traveling in Canada — especially helpful for **solo travelers**, **digital nomads**, and **independent explorers**.
 
